@@ -4,7 +4,13 @@ excerpt: 'How to use this theme'
 date: 2021-01-01
 ---
 
-Hello, and welcome to Up To 11ty, a minimal and performant theme built by [Sysnomid](https://sysnomid.com)
+Here is the full setup for my 11ty theme, **UpTo11ty** that powers sysnomid.com
+
+UpTo11ty is a highly configurable, performant, and minimal theme.
+
+![Lighthouse Score](https://sysnomid.com/assets/img/2021-01-30_19-36.png)
+
+Let's Get Started!
 
 ## Installation
 Start with running:
