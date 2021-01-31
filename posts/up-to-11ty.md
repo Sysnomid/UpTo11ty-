@@ -4,13 +4,9 @@ excerpt: 'How to use this theme'
 date: 2021-01-01
 ---
 
-Here is the full setup for my 11ty theme, **UpTo11ty** that powers sysnomid.com
+Hello, and welcome to Up To 11ty, a minimal and performant theme built by [Sysnomid](https://sysnomid.com)
 
-UpTo11ty is a highly configurable, performant, and minimal theme.
-
-![Lighthouse Score](https://sysnomid.com/assets/img/2021-01-30_19-36.png)
-
-Let's Get Started!
+Github: [https://github.com/Sysnomid/UpTo11ty](https://github.com/Sysnomid/UpTo11ty)
 
 ## Installation
 Start with running:
@@ -212,8 +208,6 @@ Implemented Nunjucks Readable Date Filter, Image Optimization, and assets folder
                 passthroughFileCopy: true
             }
         }
-
-<br />
 
 Now that you are now done setting up, its time to turn your SSG experience **Up to 11ty**.
 
