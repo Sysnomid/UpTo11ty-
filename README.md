@@ -12,4 +12,4 @@ A minimal, performant theme for 11ty
 	
 ## Docs
 Full setup
-https://sysnomid.com/posts/upto11ty/
+https://sysnomid.com/posts/Upto11ty/
