@@ -9,8 +9,8 @@ permalink: /
 {% for post in posts %}
 <ul>
 	<li class="post-item margin-main">
-    <strong><a class="xm neon title text-none" href="{{post.url}}"><b>{{post.data.title}}</b></a></strong>
-    <p>{{post.data.excerpt}}...</p>
+    <strong><a class="xm neon title text-none" href="{{post.url}}"><b>{{post.data.title | escape}}</b></a></strong>
+    <p>{{post.data.excerpt | escape}}...</p>
     <strong>-</strong> <em class="post-date">{{ post.date | readableDate}}</em>
   </li>
 </ul>
